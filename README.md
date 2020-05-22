@@ -1,4 +1,4 @@
-projetos
+Curso Coldfusion
 ========
 
-Projetos Coldfusion - Comentados em Português
+Material de estudo para o curso de Programação em Coldfusion para iniciantes.
